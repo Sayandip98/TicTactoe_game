@@ -22,7 +22,7 @@ To run this project locally, no complex setup or server is required.
 
 1. **Clone the repository** (or download the source code):
    ```bash
-   git clone [https://github.com/Sayandip98/TicTactoe_game.git]
+   git clone https://github.com/Sayandip98/TicTactoe_game.git
    ```
 2. **Navigate to the directory**:
    ```bash
